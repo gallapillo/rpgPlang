@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ea9b5abcc29c87489a44402211b03f4, type: 3}
+  m_Name: Small Key
+  m_EditorClassIdentifier: 
+  itemSprite: {fileID: 21300000, guid: 8ebda783547eb0b46a164e0b21c30396, type: 3}
+  itemDescription: "\u042D\u0442\u043E\u0442 \u043A\u043B\u044E\u0447 \u0432\u0437\u043B\u043E\u043C\u0430\u0435\u0442
+    \u043D\u0435 \u0442\u043E\u043B\u044C\u043A\u043E \u0436\u043E\u043F\u0443 , \u043D\u043E
+    \u0438 \u0434\u0432\u0435\u0440\u044C \u043D\u0430 \u0441\u043B\u0435\u0434 \u043B\u043E\u043A\u0430\u0446\u0438\u044E"
+  isKey: 1
